@@ -1,0 +1,4 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/(auth)/sign-in/[[...path]]/page": "app/(auth)/sign-in/[[...path]]/page.js"
+}
